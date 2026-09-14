@@ -1,0 +1,6 @@
+{
+  "name": "CarPark Direct - License Plate OCR & Chat",
+  "description": "Scan car number plates with Hugging Face OCR, match against company parking records in Google Sheets, and initiate 1-click Google Chat to request vehicle moves.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
